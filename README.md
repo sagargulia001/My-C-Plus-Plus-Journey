@@ -15,7 +15,6 @@ This repository contains all the C++ practice code I wrote while learning from [
   - Inheritance
   - Polymorphism
   - Encapsulation
-- 📂 File Handling
 - ⚙️ Constructors & Destructors
 
 ---
