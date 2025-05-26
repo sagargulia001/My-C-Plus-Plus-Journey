@@ -1,6 +1,6 @@
 # 💻 C++ Practice Programs
 
-This repository contains all the C++ practice code I wrote while learning from [CodeWithHarry's C++ Course](https://www.youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA). It covers everything from basic syntax to Object-Oriented Programming (OOP).
+This repository contains all the C++ practice code I wrote while learning from [CodeWithHarry's C++ Course](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&si=gG5GD_YGZclJfNyw). It covers everything from basic syntax to Object-Oriented Programming (OOP).
 
 ---
 
